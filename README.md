@@ -2,119 +2,80 @@
 
 ###
 
-<p align="left">
-I’m a Developer × Designer passionate about building products that balance logic and creativity. 
-I love turning ideas into seamless experiences — from writing efficient, scalable code to crafting thoughtful UI/UX. 
-On this GitHub, you’ll find projects where I explore full-stack development, design-driven solutions, and everything in between.
-</p>
+<p align="left">I’m a Developer × Designer passionate about building products that balance logic and creativity. I love turning ideas into seamless experiences, from writing efficient, scalable code to crafting thoughtful UI/UX. On this GitHub, you’ll find projects where I explore full-stack development, design-driven solutions, and everything in between.</p>
 
 ###
-
-<h3 align="left">⚡ Skill Set</h3>
+<h6 align="left">Skill Set !!!</h6>
 
 ###
 
 <table align="center">
   <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48"/><br/>C++
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48"/><br/>JavaScript
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48"/><br/>HTML5
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48"/><br/>CSS3
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="48"/><br/>Tailwind
-    </td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" /></td>
   </tr>
   <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48"/><br/>Python
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48"/><br/>Node.js
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="48"/><br/>Express
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48"/><br/>MySQL
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48"/><br/>Figma
-    </td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="60" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" /></td>
   </tr>
   <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="48"/><br/>Electron
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="48"/><br/>Webpack
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48"/><br/>TensorFlow
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/><br/>NumPy
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48"/><br/>Jupyter
-    </td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="60" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60" /></td>
   </tr>
   <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="48"/><br/>MATLAB
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48"/><br/>Jira
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="48"/><br/>Notion
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48"/><br/>Git
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48"/><br/>GitHub
-    </td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="60" /></td>
   </tr>
 </table>
 
+
 ###
 
-<h3 align="left">📫 Contact Me</h3>
+<h5 align="left">Contact Me !!!</h5>
+
+###
 
 <div align="center">
   <a href="www.linkedin.com/in/yash-tonapi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://forem.com/yash_tonapi_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
   </a>
-  <a href="https://dribbble.com/YashTonapi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&style=for-the-badge" height="25"/>
+  <a href="https://dribbble.com/YashTonapi/about?utm_source=Clipboard_%22clipboard_about%22&utm_campaign=%22YashTonapi%22&utm_content=%22About%20YashTonapi%22&utm_medium=Social_Share" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dribbble logo"  />
   </a>
-  <a href="mailto:yashstonapi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
+  <a href="yashstonapi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://x.com/_yash_tonapi_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000000&logoColor=black&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000000&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="https://www.behance.net/yashtonapi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yash-tonapi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=yash-tonapi&theme=dracula&column=6&margin-w=8&margin-h=8" height="150" />
+  <img src="https://streak-stats.demolab.com?user=yash-tonapi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=yash-tonapi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -124,3 +85,5 @@ On this GitHub, you’ll find projects where I explore full-stack development, d
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash-tonapi/yash-tonapi/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yash-tonapi/yash-tonapi/output/pacman-contribution-graph.svg">
 </picture>
+
+###
