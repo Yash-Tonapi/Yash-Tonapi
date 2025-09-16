@@ -88,11 +88,11 @@
 </div>
 
 ###
-
-<!-- Dark mode -->
-<img src="https://raw.githubusercontent.com/yash-tonapi/yash-tonapi/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="pacman contribution graph dark">
-
-<!-- Light mode -->
-<img src="https://raw.githubusercontent.com/yash-tonapi/yash-tonapi/output/pacman-contribution-graph.svg#gh-light-mode-only" alt="pacman contribution graph light">
-
+<!--
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash-tonapi/yash-tonapi/output/pacman-contribution-graph-dark.svg"> 
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash-tonapi/yash-tonapi/output/pacman-contribution-graph.svg"> 
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yash-tonapi/yash-tonapi/output/pacman-contribution-graph.svg"> 
+</picture>
+-->
 ###
