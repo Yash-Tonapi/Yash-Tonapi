@@ -5,7 +5,7 @@
 <p align="left">I’m a Developer × Designer passionate about building products that balance logic and creativity. I love turning ideas into seamless experiences, from writing efficient, scalable code to crafting thoughtful UI/UX. On this GitHub, you’ll find projects where I explore full-stack development, design-driven solutions, and everything in between.</p>
 
 ###
-
+<!-- 
 <h6 align="left">Skill Set !!!</h6>
 
 ###
@@ -52,8 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="60" alt="webpack logo"  />
-</div>
-
+</div> -->
 ###
 
 <h5 align="left">Contact Me !!!</h5>
